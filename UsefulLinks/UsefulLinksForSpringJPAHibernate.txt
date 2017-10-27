@@ -1,0 +1,20 @@
+1. Creating Database Queries With the @Query Annotation
+    https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-creating-database-queries-with-the-query-annotation/
+
+2. Custom Queries with Query Methods
+    https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-three-custom-queries-with-query-methods/
+
+3. Accessing data with MySQL(SPRING Repository)
+    https://spring.io/guides/gs/accessing-data-mysql/
+
+4. Tomcat jndi
+    https://www.journaldev.com/2513/tomcat-datasource-jndi-example-java 
+
+5. Persistance with JPA and sprnig
+    http://www.baeldung.com/the-persistence-layer-with-spring-and-jpa 
+
+6. Spring boot jpa  
+    http://recursivechaos.com/blog/spring-boot-jpa-mysql/
+
+
+
